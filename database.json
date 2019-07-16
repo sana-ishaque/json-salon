@@ -1,0 +1,823 @@
+{
+    "home": {
+        "title": "Nabila",
+        "navTab": [
+            "HOME",
+            "HAIR",
+            "MAKEUP",
+            "N-GENTS",
+            "NAILS",
+            "PRODUCTS",
+            "GALLERY"
+        ],
+        "displayPicture": "https://c.tribune.com.pk/2017/10/1530593-image-1507914013.jpg",
+        "discription": "NABILA, THE ACCLAIMED HAIR AND MAKEUP STYLIST OF KARACHI, STARTED HER FIRST SALON VENTURE IN 1986. THROUGH THE COURSE OF 30 YEARS SHE HAS REDEFINED FASHION, STYLE, AND IMAGERY.",
+        "search": "",
+        "socialMediaHandles": {
+            "facebook": "https://www.facebook.com/NabilaExpress",
+            "twitter": "https://twitter.com/Nabila_Salon",
+            "instagram": "https://www.instagram.com/nabila_salon/"
+        },
+        "footer": {
+            "contactUS": [
+                {
+                    "location": "Karachi",
+                    "address": "Nabila C-33, E-Street, Block 4, Clifton Karachi.",
+                    "contactNumber": [
+                        "021-35862201-3",
+                        "0301-8283211"
+                    ]
+                },
+                {
+                    "location": "Karachi",
+                    "address": "N-PRO C-33, E-Street, Block 4, Clifton Karachi.",
+                    "contactNumber": [
+                        "021-35862201-3",
+                        "0301-8283211"
+                    ]
+                },
+                {
+                    "location": "Karachi",
+                    "address": "N Gents F-50, E- Street, Block 4, Clifton Karachi.",
+                    "contactNumber": [
+                        "0303-3331883",
+                        "0201-35835994"
+                    ]
+                },
+                {
+                    "location": "Lahore",
+                    "address": "Nabila 10 Q, Ground Floor (Dr. Fatima Mateen Road Entrance) Gulberg 2, Lahore.",
+                    "contactNumber": [
+                        "042 35779103-4",
+                        "042 35751560",
+                        "03334299948"
+                    ]
+                },
+                {
+                    "appointmentForm": [
+                        "FirstName",
+                        "LastName",
+                        "Contact Number",
+                        "Email",
+                        "Services"
+                    ]
+                }
+            ],
+            "privacyPolicy": "EM IPSUM IS SIMPLY DUMMY TEXT OF THE PRINTING AND TYPESETTING INDUSTRY. LOREM IPSUM HAS BEEN THE INDUSTRY’S STANDARD DUMMY TEXT",
+            "termsAndConditions": "EM IPSUM IS SIMPLY DUMMY TEXT OF THE PRINTING AND TYPESETTING INDUSTRY. LOREM IPSUM HAS BEEN THE INDUSTRY’S STANDARD DUMMY TEXT "
+        }
+    },
+    "salonManagement": {
+        "CEO": "Nabila",
+        "managers": {
+            "khiBranch": "Armia Khan",
+            "lhrBranch": "Kinza Hashim",
+            "isbdBranch": "Marium Tariq"
+        },
+        "hairStylist": {
+            "khiBranch": {
+                "seniorStylist": [
+                    "Amnah Khan",
+                    "Maqsood Ahmed",
+                    "Fouzia jameel"
+                ],
+                "juniorStylist": [
+                    "Ali Zeeshan",
+                    "Tayyaba"
+                ]
+            },
+            "lhrBranch": [
+                "waryam Khan",
+                "Rony",
+                "A.H kiyani"
+            ],
+            "isbdBranch": {
+                "seniorStylist": [
+                    "Habiba Mansoor",
+                    "Mishi",
+                    "Omair Waqar"
+                ],
+                "juniorStylist": [
+                    "Vikram",
+                    "MAryam Asgher",
+                    "Ainy Ali"
+                ]
+            }
+        }
+    },
+    "furniture": {
+        "receptioDest": 1,
+        "receptionChairs": 3,
+        "salonChairs": 25,
+        "backwashUnits": 5,
+        "stylingUnits": 10,
+        "beautyCouches": 20,
+        "beautyTrolleys": 15,
+        "salonRetailStands": 5,
+        "magazineRacks": 2,
+        "footRests": 10,
+        "washingMachine": 2,
+        "mirrors": 20,
+        "pedicureChairs": 10,
+        "manicureStations": 5
+    },
+    "hairDressingSupplies": {
+        "scissors": 10,
+        "hairDressingTowels": 10,
+        "gowns": 10,
+        "hairDressingElectricals": {
+            "hairDryers": 10,
+            "straightners": 10,
+            "clippers": 30,
+            "tongs": 30,
+            "curlingWands": 10,
+            "steamer": 5
+        },
+        "brushesAndCombs": [
+            "detangler",
+            "Blowdrying",
+            "Styling Combs"
+        ],
+        "hairColorSupplies": [
+            "gloves",
+            "foils",
+            "Mixing Gloves",
+            "Aprons",
+            "Brushes",
+            "Spray Bottles",
+            "towels",
+            "Peroxide",
+            "Bleach",
+            "olaplex",
+            "Wide Ranfe of Colors"
+        ],
+        "hairColorBrands": {
+            "semiPermenantColor": [
+                "Garnier",
+                "Revelon",
+                "Keune "
+            ],
+            "permenantColors": [
+                "Wella Professionals",
+                "L'Oreal Professional",
+                "Schwarzkopf Professional Colour",
+                "Framesi"
+            ]
+        }
+    },
+    "hair": {
+        "services": [
+            "Cutting",
+            "Color",
+            "Texture"
+        ],
+        "cutting": {
+            "levelOne": "4,000",
+            "levelTwo": "7,000",
+            "levelThree": "10,000"
+        },
+        "coloringMenu": {
+            "servives": [
+                "Root Coverage",
+                "Color Enhancer",
+                "Tint/ Gloss",
+                "Half Head/Shine Lights",
+                "Full Head/Shine Lights",
+                "Corective Color (2 or More Processes)",
+                "Ombre/ Balayage, Free Hand",
+                "Inoa Addition",
+                "Additional - Longer Than Waist Length"
+            ],
+            "Root Coverage": {
+                "description": "Upto One Inch",
+                "levelOnePrice": "4,000",
+                "levelTwoPrice": "5,000",
+                "levelThreePrice": "6,000"
+            },
+            "Color Enhancer": {
+                "description": "Upto Shoulder Length",
+                "levelOnePrice": "4,500"
+            },
+            "Tint/ Gloss": {
+                "description": "Upto Shoulder Length",
+                "levelOnePrice": "6,000",
+                "levelTwoPrice": "8,000",
+                "levelThreePrice": "10,000"
+            },
+            "TInt/ Gloss": {
+                "description": "Upto Shoulder Length",
+                "levelOnePrice": "6,000",
+                "levelTwoPrice": "8,000",
+                "levelThreePrice": "10,000"
+            },
+            "Half Head/Shine Lights": [
+                {
+                    "description": "Upto Shoulder Length",
+                    "levelTwoPrice": "8,000"
+                },
+                {
+                    "description": "Upto Shoulder Length ",
+                    "levelThreePrice": "11,000"
+                },
+                {
+                    "description": "Upto Waist Length",
+                    "levelTwoPrice": "11,000"
+                },
+                {
+                    "description": "Upto Waist Length ",
+                    "levelThreePrice": "13,000"
+                }
+            ],
+            "Full Head/Shine Lights": [
+                {
+                    "description": "Upto Shoulder Length",
+                    "levelTwoPrice": "11,000"
+                },
+                {
+                    "description": "Upto Shoulder Length ",
+                    "levelThreePrice": "13,000"
+                },
+                {
+                    "description": "Upto Waist Length",
+                    "levelTwoPrice": "13,000"
+                },
+                {
+                    "description": "Upto Waist Length ",
+                    "levelThreePrice": "15,000"
+                }
+            ],
+            "Corective Color": [
+                {
+                    "description": "Upto Shoulder Length",
+                    "levelTwoPrice": "13,000"
+                },
+                {
+                    "description": "Upto Shoulder Length ",
+                    "levelThreePrice": "15,000"
+                },
+                {
+                    "description": "Upto Waist Length",
+                    "levelTwoPrice": "15,000"
+                },
+                {
+                    "description": "Upto Waist Length ",
+                    "levelThreePrice": "17,000"
+                }
+            ],
+            "OmbreBalayageFreehand": [
+                {
+                    "description": "Upto Shoulder Length",
+                    "levelTwoPrice": "13,000"
+                },
+                {
+                    "description": "Upto Shoulder Length ",
+                    "levelThreePrice": "15,000"
+                },
+                {
+                    "description": "Upto Waist Length",
+                    "levelTwoPrice": "15,000"
+                },
+                {
+                    "description": "Upto Waist Length ",
+                    "levelThreePrice": "17,000"
+                }
+            ],
+            "Inoa Addition": {
+                "description": "Upto Shoulder Length",
+                "levelTwoPrice": "3,000"
+            },
+            "AdditionalLongerThanWaistLength": {
+                "description": "Longer Than Waist Length",
+                "levelTwoPrice": "5,000"
+            }
+        },
+        "texture": {
+            "hairTexture": [
+                {
+                    "title": "Xtenso",
+                    "upToSholderLength": "20,000",
+                    "UptoWaistLength": "25,000"
+                },
+                {
+                    "title": "Keratin/ Brazilian Blow-Dry",
+                    "upToSholderLength": "20,000",
+                    "UptoWaistLength": "25,000"
+                },
+                {
+                    "title": "Rebonding",
+                    "upToSholderLength": "20,000",
+                    "UptoWaistLength": "25,000"
+                },
+                {
+                    "title": "AdditionalLongerThanWaistLength",
+                    "price": "5,000"
+                }
+            ],
+            "styling": [
+                {
+                    "title": "Blow-Dry",
+                    "Price": 1000
+                },
+                {
+                    "title": "Extensions Blow-Dry",
+                    "Price": 1000
+                },
+                {
+                    "title": "Temprary Texturing",
+                    "Price": "2,000"
+                },
+                {
+                    "title": "Updo",
+                    "Price": "3,000"
+                }
+            ],
+            "realHairExtension": [
+                {
+                    "type": "Add Color",
+                    "Price": "50,000"
+                },
+                {
+                    "type": "Add Volume",
+                    "Price": "60,000"
+                },
+                {
+                    "type": "Add Length",
+                    "Price": "100,000"
+                }
+            ]
+        }
+    },
+    "naiSupplies": [
+        "Nail Polishes",
+        "Gel Polishes",
+        "UV/ LED Lamp",
+        "Accrylic",
+        "Nai Files",
+        "Acetone",
+        "Buffers",
+        "Cuticle Oils",
+        "Hand Towles",
+        "Nail Tips"
+    ],
+    "hairRemovalProducts": [
+        "Wax",
+        "Wax Heaters",
+        "Pre/Post Wax Lotions",
+        "Wax Strips",
+        "Spatula",
+        "Tweezers"
+    ],
+    "lasheAndBrow": {
+        "browTints": [
+            "HB",
+            "Benifit"
+        ],
+        "lashBrands": [
+            "Lashes by Ayesha Sabeena",
+            "Lash Bar",
+            "AR Qozmetics",
+            "Hoorain",
+            "Rida Zayn Cosmetics",
+            "ST London",
+            "Glamgirls BY MH",
+            "Flaunt & Flutter",
+            "Huda Beauty",
+            "Aldo"
+        ],
+        "tools": [
+            "Adhessive",
+            "Tweezers",
+            "Tinting Brushes",
+            "Under Eye Patches"
+        ]
+    },
+    "makeup": {
+        "categories": [
+            "Makeup",
+            "Hair",
+            "Session Work",
+            "Others"
+        ],
+        "makeup": [
+            {
+                "title": "Level 1",
+                "price": 10000
+            },
+            {
+                "title": "Level 2",
+                "price": 25000
+            },
+            {
+                "title": "Level 1",
+                "price": 32000
+            },
+            {
+                "title": "Level 4",
+                "price": 42000
+            }
+        ],
+        "hair": {
+            "upDo": 3000,
+            "extensionBlowDry": 1000,
+            "blowDry": 1000,
+            "temporaryTexturising": 2000
+        },
+        "sessionWork": [
+            {
+                "levelOnePerShift": 10000,
+                "levelTwoPerShift": 15000,
+                "levelThreePerShift": 25000,
+                "levelFourPerShift": 50000
+            },
+            {
+                "levelOnePerShift": 20000,
+                "levelTwoPerShift": 35000,
+                "levelThreePerShift": 50000,
+                "levelFourPerShift": 100000
+            }
+        ],
+        "others": {
+            "projectStyling": 50000,
+            "basicMakeupTution": 75000,
+            "advanceMakeupTution": 100000,
+            "azMakeupTution": 200000
+        }
+    },
+    "nGents": {
+        "description": "LAUNCHED IN 2013, IT IS RELATIVELY NEW CONTINGENT TO NABILA’S EMPIRE AND YET, IT HAS BEEN ONE OF HER FASTEST GROWING BRANDS. RECOGNIZING THE GAPING NEED IN THE MARKET FOR A STATE-OF-THE-ART MEN’S SALON, N-GENTS WAS CREATED IN RECORD TIME AND NOW ENJOYS A GROWING CLIENTELE, FROM AVOID SARTORIALISTS TO SOCIETY MOVERS AND SHAKERS TO CELEBRITIES, POLITICIANS OR SIMPLY PUT, MEN WHO LIKE TO LOOK AND FEEL GOOD. N-GENTS’ OLD-SCHOOL SPIRIT MELDED WITH A NEW-AGE VIBE SERVES THEM WELL.",
+        "address": "N Gents F-50, E- Street, Block 4, Clifton Karachi."
+    },
+    "nails": {
+        "services": [
+            "Hand Care",
+            "Foot Care",
+            "Nail Art"
+        ],
+        "handCare": {
+            "scrub": 1000,
+            "shapePolisBuff": 1000,
+            "shapeFrenchPolisBuff": 1200,
+            "expressManicure": 1800,
+            "hydratingManicure": 2500,
+            "luxuryManicure": 3000,
+            "gelPolishRemoval": 1000,
+            "handMassage": 1000
+        },
+        "footCare": {
+            "shapePolishBuff": 1000,
+            "footMassage": 1000,
+            "shapeFrenchPolishBuff": 1200,
+            "expressPedicure": 1800,
+            "correctivePedicure": 2500,
+            "luxuruPedicure": 3000,
+            "essiePedicure": 4000
+        },
+        "nails": [
+            "Nail Art",
+            "Nails Menu",
+            "Nails Strenthening",
+            "Color Application"
+        ],
+        "nailArt": {
+            "stencil": "500",
+            "stone": 1000,
+            "frenchGlitter": 1000,
+            "stoneAndGlitter": 1500,
+            "fullStoneAndGlitter": 2000
+        },
+        "nailsMenu": [
+            {
+                "category": " Acrylic Nails (NAtural, Cear and French Tips) -Hands",
+                "repair": "400 - Per Nail",
+                "enhancementRemoval": 1500,
+                "refillsFrench": 2500,
+                "refills": 2500,
+                "gelNails": 4000,
+                "handsNatural": 4500,
+                "frenchNails": 5000
+            },
+            {
+                "category": " Acrylic Nails (Natural, Cear and French Tips) -Feet",
+                "repair": "400 - Per Nail",
+                "enhancementRemoval": 2000,
+                "refillsFrench": 3000,
+                "refills": 3000,
+                "gelNails": 5000,
+                "handsNatural": 5000,
+                "frenchNails": 5000
+            }
+        ],
+        "nailsStrengthening": {
+            "nailRepairHandsFeet": "300 Per Nail",
+            "acrylicCoatHandsFeet": 3000
+        },
+        "colorApplication": {
+            "brands": [
+                "Essies",
+                "OPI",
+                "Inglot"
+            ],
+            "essieHandsAndFeet": "600 Rupees Each",
+            "opiHandsAndFeet": "600 Rupees Each",
+            "inglotHandsAndFeet": "1,000 Rupees Each"
+        }
+    },
+    "products": [
+        "Zero Makeup",
+        "Zero Blending Brush"
+    ],
+    "blendingBrush": {
+        "description": "This ergonomically designed foundation brush distributes product evenly by blurring product into the skin in a buffing process for a soft-focus (selfie ready) effect.",
+        "price": 1490
+    },
+    "zeroMakeup": {
+        "description": "FOR 30 YEARS, NABILA HAS BEEN NOTHING SHORT OF A BEAUTY LEGEND. HER TIMELESS MINIMAL STYLE HAS REFINED THE RED CARPET FOR JUST AS LONG.HER RECENT STEPS INTO RETAIL HAVE ENABLED HER TO DISCOVER A WHOLE NEW SIDE TO HER TALENT, TO BE ABLE TO CREATE D-I-Y SOLUTIONS, CATERING TO A GLOBAL MARKET WHERE INCREASINGLY, PEOPLE HAVE LESS TIME TO VISIT SALONS. IT MARKS THE ONSET OF NABILA’S JOURNEY INTO IMAGE-RELATED RETAIL SOLUTIONS- A FORERUNNER OF MANY MORE TO COME.",
+        "tagLine": "All IN One Makeup Solution",
+        "price": 5000
+    },
+    "shadeRangeZeroMakeup": {
+        "shade": [
+            {
+                "title": "Porcelain",
+                "details": "The PORCELAIN palette is for very fair skin tones. It is the one case for your entire face that gives you a natural no make up look anywhere, anyplace. It really is 60 seconds to flawless.",
+                "availability": "In Stock"
+            },
+            {
+                "title": "Pearl",
+                "details": "The PEARL palette is for fair skin tones. It is the one case for your entire face that gives you a natural no make up look anywhere, anyplace. It really is 60 seconds to flawless.",
+                "availability": "In Stock"
+            },
+            {
+                "title": "Ivory",
+                "details": "The PORCELAIN palette is for very fair skin tones. It is the one case for your entire face that gives you a natural no make up look anywhere, anyplace. It really is 60 seconds to flawlessThe IVORY palette is for light skin tones. It is the one case for your entire face that gives you a natural no make up look anywhere, anyplace. It really is 60 seconds to flawless.",
+                "availability": "In Stock"
+            },
+            {
+                "title": "Creme",
+                "details": "The CREME palette is for creamy skin tones. It is the one case for your entire face that gives you a natural no make up look anywhere, anyplace. It really is 60 seconds to flawless.",
+                "availability": "In Stock"
+            },
+            {
+                "title": "Honey",
+                "details": "The HONEY palette is for honey skin tones. It is the one case for your entire face that gives you a natural no make up look anywhere, anyplace. It really is 60 seconds to flawless.",
+                "availability": "Out of Stock"
+            },
+            {
+                "title": "Caramel",
+                "details": "The CARAMEL palette is for almond skin tones. It is the one case for your entire face that gives you a natural no make up look anywhere, anyplace. It really is 60 seconds to flawless.",
+                "availability": "Out of Stock"
+            }
+        ]
+    },
+    "brandAmbassodors": [
+        "Amna Sheikh",
+        "Minal Khan",
+        "Sadaf Kanwal"
+    ],
+    "expertsOnBoard": [
+        {
+            "salon": "Pulp Riot",
+            "expert": "Alexis"
+        },
+        {
+            "salon": "The Butterf;y Loft Salon",
+            "expert": "David"
+        },
+        {
+            "salon": "Bounce",
+            "expert": "Wendy Roe"
+        },
+        {
+            "salon": " TIGI",
+            "expert": "Christel Lundqvist"
+        },
+        {
+            "salon": " Rainbow Room International",
+            "expert": "Linda Stewart"
+        },
+        {
+            "salon": " Savills Barbers",
+            "expert": "Joth Devies"
+        },
+        {
+            "salon": " Trevor Sorbie",
+            "expert": "Tom Connel"
+        }
+    ],
+    "limitedEditionCollection": {
+        "name": "Jelly Pop",
+        "products": [
+            {
+                "title": "Jelly Pop Flush Blush",
+                "price": "1,600"
+            },
+            {
+                "title": "Jelly Pop Face And Eye Gloss",
+                "price": 1000
+            },
+            {
+                "title": "Jelly Pop Mini Kit",
+                "price": 3000
+            },
+            {
+                "title": "Jelly Pop Watermelon Cleanser",
+                "price": 1200
+            },
+            {
+                "title": "Jelly Pop Water Gel Mosturizer",
+                "price": 1500
+            },
+            {
+                "title": "Jelly Pop Dewy Primer",
+                "price": 2000
+            },
+            {
+                "title": "Jelly Pop Juicy Gloss",
+                "price": 600
+            },
+            {
+                "title": "Jelly Pop Stippling Face Brush",
+                "price": 1500
+            }
+        ]
+    },
+    "theSupersCollection": {
+        "superHyderateMosturiser": {
+            "ingridients": [
+                "Squalane",
+                "Niacinamide",
+                "Centella Asiatica",
+                "Snow Mushroom",
+                "Vitamin E"
+            ],
+            "price": 1600
+        },
+        "superCalrifyCleanser": {
+            "ingridients": [
+                "Lavender",
+                "Niacinamide"
+            ],
+            "price": 900
+        },
+        "superToner": {
+            "ingridients": [
+                "Alpha Hydroxy Acids from Fruit Acids ",
+                "Witch Hazel",
+                "Aloe",
+                "Castor oil"
+            ],
+            "price": 1900
+        },
+        "superMask": {
+            "ingridients": [
+                "Centella Asiatica ",
+                "Ceramides",
+                "Lavender",
+                "Cocoa Butter"
+            ],
+            "price": 800
+        },
+        "cleanserAndHydrateSuperSet": {
+            "details": "uperClarify Cleanser and SuperHydrate Moisturizer team up for the ultimate skin care power duo, packed with amazing ingredients!",
+            "price": 2500
+        },
+        "theSupersregimen": {
+            "package": [
+                "SuperClarify Cleanser",
+                "Super Toner",
+                "SuperMask",
+                "SuperHydrate Moisturizer"
+            ],
+            "price": 25000
+        }
+    },
+    "trackPackage": {
+        "signIn": {
+            "note": "Welcome back. Sign in below.",
+            "email": "",
+            "passowrd": ""
+        },
+        "register": {
+            "firstName": "",
+            "lastName": "",
+            "email": "",
+            "note": "Please sign me up to recieve text messages.sms terms",
+            "passowrd": "",
+            "confirmpassword": "",
+            "note": "Enter your birthday and we'll send you special surprise on your special day",
+            "birthday": {
+                "month": "",
+                "day": "",
+                "year": ""
+            },
+            "trackPackage": {
+                "orderNumber": "",
+                "orderEmail": "",
+                "billingZipCode": ""
+            },
+            "signupForPromotions": {
+                "email": "",
+                "mobileNumber": "",
+                "note": "By entering your email and mobile number , you consent to recieve promotional emails or SMS text messages, as applicable,from e.l.f"
+            }
+        }
+    },
+    "shipping": {
+        "freeShipping": "We offer Free Shipping within Pakistan for orders above 20,000 Rs.",
+        "shippingWithinpakistan": "We ship to all cities of Pakistan. The below shipping methods are estimated delivery times in business days and will differ based on your shipping address as well as during peak holiday times.",
+        "shippingRates": "We offer free standard shipping† on orders. To get your package earlier, you can elect to upgrade to Express, 2-Day or Next Day at an additional cost. Our packages will be shipped via TCS",
+        "shippingMethod": {
+            "standard": {
+                "shippingCost": 200,
+                "diliveryTime": "6-10 Days"
+            },
+            "express": {
+                "shippingCost": 350,
+                "diliveryTime": "3-5 Days"
+            },
+            "twoDays": {
+                "shippingCost": 450,
+                "diliveryTime": "2 Days"
+            },
+            "nextDay": {
+                "shippingCost": 550,
+                "diliveryTime": "1 Days"
+            }
+        }
+    },
+    "promoOffers": [
+        {
+            "title": "50% Off Sitewide",
+            "details": "50% off orders of 25,000 or more of qualified products. Add product to cart, creating a minimum bag value of 25,000 of qualified products at checkout to receive 50% off of your order. No promotional code required at checkout."
+        },
+        {
+            "title": "Free shipping on all orders above 7,000",
+            "details": "Add 7,000 worth rupees product to your cart and automatically receive free shipping on your order. No promotional code required at checkout."
+        },
+        {
+            "title": "Are you a part of Nabila's squad yet?",
+            "details": "ign up today for Beauty Squad, your all-access pass to beauty rewards. As a thanks, you’ll receive free shipping on your first order, PLUS 50 bonus points!"
+        }
+    ],
+    "cutomerService": "We belive in transparecy in our relationship with prestigious customers. If you have any concerns related to the order you have recieved, please send us an email with the the order number and we will get back you. For queries you can always reach us at our social media accounts.",
+    "findStores": {
+        "karachi": [
+            {
+                "loctation": "Dolmen Maal Clifton",
+                "address": "Main Tariq Road, Block 3, PECHS, Karachi."
+            },
+            {
+                "location": "Dolmen Mall Tariq Road",
+                "address": "Dolmen City, HC-3, Block-4, Marine Drive, Clifton, Karachi – Pakistan"
+            },
+            {
+                "location": "Dolmen Mall Hyderi",
+                "address": "Sharah-e-Sher Shah Suri, Block C North Nazimabad Town, Karachi,"
+            }
+        ],
+        "lahore": [
+            {
+                "location": "Emporiam Mall",
+                "address": ""
+            },
+            {
+                "location": "Fortress Stadium",
+                "address": ""
+            },
+            {
+                "location": "Packages Mall",
+                "address": ""
+            },
+            {
+                "location": "Mall of Lahore",
+                "address": ""
+            },
+            {
+                "location": "Amanah Mall",
+                "address": ""
+            }
+        ],
+        "islamabad": [
+            {
+                "location": "Mall of Islamabad",
+                "address": "Jinnah Ave, Block J F 7/1 Blue Area."
+            },
+            {
+                "location": "Emporiam Islamabad",
+                "address": "Street 11A, F-10 Markaz F 10/3 F-10."
+            },
+            {
+                "location": "Safa Gold Mall",
+                "address": "Jinnah Super، College Rd, F-7 Markaz F 7 Markaz F-7, Islamabad"
+            },
+            {
+                "location": "Olympus mall",
+                "address": "Plot 23, S 11، F 11 Markaz F-11, Islamabad"
+            },
+            {
+                "location": "Centaurus mall Islamabad",
+                "address": "F8، 4 Jinnah Avenue, F 8/4 F-8, Islamabad"
+            }
+        ]
+    }
+}
