@@ -105,6 +105,205 @@
             }
         }
     },
+    "mediaCharges": {
+        "awardsCharges": 5000000,
+        "dramas": 50000,
+        "advertisments": 100000,
+        "film": 500000,
+        "theater": 20000,
+        "charityBasedProg": "FOC"
+    },
+    "csr": {
+        "vission": "Lorem Ipsum Dora",
+        "branches": [
+            "environmental sustainability ",
+            "direct philanthropic giving",
+            "economic responsibility",
+            "ethical business practices"
+        ]
+    },
+    "staffSalries": {
+        "management": {
+            "owner": 100000,
+            "manager": 350000,
+            "branchManagers": {
+                "karachi": 200000,
+                "lahore": 175000,
+                "islamabad": 175000
+            },
+            "recptionist": {
+                "karachi": 75000,
+                "lahore": 75000,
+                "islamabad": 80000
+            }
+        },
+        "makeupArtists": {
+            "karachi": {
+                "seniorArtistsMakeup": 120000,
+                "juniorArtistsMakeup": 80000
+            },
+            "lahore": {
+                "seniorArtistsMakeup": 120000,
+                "juniorArtistsMakeup": 80000
+            },
+            "islamabad": {
+                "seniorArtistsMakeup": 120000,
+                "juniorArtistsMakeup": 80000
+            }
+        },
+        "meniPediStaff": {
+            "khi": {
+                "seniorArtists": 80000,
+                "juniorArtists": 50000
+            },
+            "lhr": {
+                "seniorArtists": 80000,
+                "juniorArtists": 50000
+            },
+            "islamabad": {
+                "seniorArtists": 80000,
+                "juniorArtists": 50000
+            }
+        },
+        "hairStylist": {
+            "khi": {
+                "seniorStylist": 120000,
+                "juniorStylist": 80000
+            },
+            "lhr": {
+                "seniorStylist": 120000,
+                "juniorStylist": 80000
+            },
+            "isbd": {
+                "seniorStylist": 120000,
+                "juniorStylist": 80000
+            }
+        },
+        "cleaners": {
+            "khi": {
+                "maid": 30000,
+                "laundry": 30000
+            },
+            "isbd": {
+                "maid": 30000,
+                "laundry": 30000
+            },
+            "lhr": {
+                "maid": 30000,
+                "laundry": 30000
+            }
+        },
+        "misc": {
+            "khi": {
+                "electrician": 50000,
+                "painter": 50000,
+                "plumber": 35000,
+                "peons": 25000
+            },
+            "lhr": {
+                "electrician": 50000,
+                "painter": 50000,
+                "plumber": 35000,
+                "peons": 25000
+            },
+            "isbd": {
+                "electrician": 50000,
+                "painter": 50000,
+                "plumber": 35000,
+                "peons": 25000
+            }
+        },
+        "vendors": {
+            "khi": 150000,
+            "lhr": 25000,
+            "isbd": 25000
+        },
+        "advertisingAgencies": {
+            "khi": 200000,
+            "lahore": 30000,
+            "islamabad": 80000
+        }
+    },
+    "importCountries": [
+        "USA",
+        "CHINA",
+        "THAILAND",
+        "SouthKorea"
+    ],
+    "exportCountries": [
+        "USA",
+        "INDIA",
+        "UAE",
+        "CANADA"
+    ],
+    "advertisingAgencies": {
+        "khi": [
+            {
+                "name": "Meezan Advertising",
+                "address": "Mateen Mobile Mall Rashid Minhas Rd Service Ln, Block 10 A Gulshan-e-Iqbal, Karach"
+            },
+            {
+                "name": "Pirana",
+                "address": "Mohammad Ali Society Muhammad Ali Chs (Machs), Karachi"
+            },
+            {
+                "name": "MullenLowe Rauf",
+                "address": "159 , Shahrah-e-Faisal, PAF Museum Rd, Darwaish Colony, Karachi"
+            },
+            {
+                "name": "Adchrome Advertising",
+                "address": "14 14th Commercial Street, D.H.A Phase II Extension Phase 2 Ext Defence Housing Authority, Karachi."
+            },
+            {
+                "name": "Synergy Advertising (Pvt.) Ltd.",
+                "address": " 69-B، Block B Sindhi Muslim CHS (SMCHS), Karachi"
+            }
+        ],
+        "lahore": [
+            {
+                "name": "Time & Space Media",
+                "address": "159 , Shahrah-e-Faisal, PAF Museum Rd, Darwaish Colony, Karachi"
+            },
+            {
+                "name": "Unit Advertising Agency",
+                "address": " Wahdat Rd, Sabzazar Rehmanpura Colony, Lahore, Punjab 54000"
+            },
+            {
+                "name": "ALM Advertising Agency",
+                "address": " BOP Tower, Main Boulevard Gulberg, Block E1 Block E 1 Gulberg III, Lahore."
+            },
+            {
+                "name": "Eye Apple",
+                "address": " 108-D, Block D PIA Housing Society Block D Pia Housing Scheme, Lahore"
+            },
+            {
+                "name": "Firebolt63 Official",
+                "address": "72 Main Blvd Gulberg, Block H Gulberg 2, Lahore"
+            }
+        ],
+        "islamabad": [
+            {
+                "name": "Channel 7 Communivations",
+                "address": " 3rd Floor, Channel 7 Communications Pvt Ltd, Park Towers, A.K. Fazl-ul-Haq Rd, Block E G 6/2 Blue Area, Islamabad."
+            },
+            {
+                "name": "Time & Space Media (Pvt) Ltd.",
+                "address": " 2 Street 31, F-6/1 F 6/1 F-6, Islamabad, Islamabad Capital Territory"
+            },
+            {
+                "name": "Orange Advertising (Pvt) Ltd",
+                "address": "Nova 45D, service road west,G-10/2,, G 10/2 G-10, Islamabad, Islamabad Capital Territory"
+            },
+            {
+                "name": "Ideas Workshop (Pvt) Ltd.",
+                "address": " 40-A, First Floor, Jehlum Road, G 8/1 G-8, Islamabad, Islamabad Capital Territory 44000"
+            },
+            {
+                "name": "Marcom",
+                "address": "Farhan Plaza, 30-31, Sachal Sarmast Road, G-11 Markaz G 11 Markaz G-11, Islamabad"
+            }
+        ]
+    },
     "furniture": {
         "receptioDest": 1,
         "receptionChairs": 3,
@@ -701,7 +900,7 @@
             "firstName": "",
             "lastName": "",
             "email": "",
-            "note": "Please sign me up to recieve text messages.sms terms",
+            "specialNote": "Please sign me up to recieve text messages.sms terms",
             "passowrd": "",
             "confirmpassword": "",
             "note": "Enter your birthday and we'll send you special surprise on your special day",
@@ -819,5 +1018,13 @@
                 "address": "F8، 4 Jinnah Avenue, F 8/4 F-8, Islamabad"
             }
         ]
+    },
+    "careers": {
+        "openings": "Currrently we have no openings, please leave your portflio along with resume on the email adresses of your respective city",
+        "emailAddresses":{
+            "khi":"careers.khi@nabila.net",
+            "lhr":"careers.lhr@nabila.net",
+            "isbd":"careers.khi@nabila.net"
+        }
     }
 }
